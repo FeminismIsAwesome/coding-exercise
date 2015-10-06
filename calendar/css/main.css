@@ -1,0 +1,57 @@
+.clickable {
+	color: blue;
+}
+
+.not-clickable {
+	color: black;
+}
+
+.datepicker-title {
+	border: 1px solid black;
+	padding: 10px;
+	width: 91%;
+}
+
+.icon-right {
+	width: 10%;
+}
+
+.month {
+	width: 75%;
+	text-align: center;
+}
+
+.calendar-week {
+	width: 100%;
+}
+
+.icon-left {
+	width: 10%;
+}
+
+.datepicker-title > div {
+	display:inline-block;
+}
+
+.date {
+	display: inline-block;
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	width: 10%;
+}
+
+
+
+.selectable {
+	background-color: green;
+	cursor: pointer;
+}
+
+.not-selectable {
+	background-color: red;
+}
+
+.date-range {
+	width:100%;
+}
